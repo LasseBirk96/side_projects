@@ -1,3 +1,3 @@
-# My Python projects
+# My projects
 
-This is a repo that contains various different python projects that i have worked on
+This is a repo that contains various different projects that i have worked on
