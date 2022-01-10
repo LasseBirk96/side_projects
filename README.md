@@ -12,3 +12,9 @@ The bmi-calculator folder contains a rather simple BMI-calculator that is made w
 ## Terminal-Yatzy-Game
 
 The terminal-yatzy-folder currently contains the initial commit of a application that will allow you to play yatzy purely in the terminal. I have a few ideas of how i would like to do it, however i can't quite decide what is best. 
+
+
+## Text-Encrypter
+
+The text-encrypter folder contains a very simple text-encryption app. It uses the "cryptocode" library to encode and uncode messages with a key. Originally i wanted to create my own encryption algorithm, howevever this proved to be fair to difficult. 
+I made a rough version of one, but it was way to easily cracked. This app also makes use of the Tkinter library to create a passable GUI.
